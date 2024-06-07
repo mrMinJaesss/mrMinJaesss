@@ -2,7 +2,7 @@
 
 
 
-### 안녕하세요, 소통하며 성장하는 개발자가 꿈인 초보 개발자입니다.
+### 안녕하세요, 소통하며 성장하는 개발자입니다.
 
 ### ⊙SKILLS
 ![Static Badge](https://img.shields.io/badge/java-green?style=for-the-badge&logo=openjdk&logoColor=000000)
@@ -19,5 +19,4 @@
 
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={dlalswo0504})](https://solved.ac/{dlalswo0504}) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrMinJaesss)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrMinJaesss)](https://github.com/anuraghazra/github-readme-stats)
